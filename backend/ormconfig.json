@@ -10,6 +10,7 @@
    "entities": [
       "./src/entity/*"
    ],
+
    "migrations": [
       "src/migration/**/*.ts"
    ],
